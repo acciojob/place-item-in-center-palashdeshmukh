@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
-item-1{
-	display:flexbox;
+.item-1{
+	display:flex;
+	align-item:centre;
 	position:center;
 }
